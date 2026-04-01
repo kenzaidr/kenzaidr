@@ -56,47 +56,10 @@
 
 </div>
 
----
-
-### 📁 Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/kenzaidr/PFA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenzaidr&repo=PFA&hide_border=true&bg_color=FDF8F4&title_color=5D3A1A&text_color=A0785A&icon_color=C8A97E" />
-      </a>
-      <br/><sub>Modular architecture · Clean design patterns</sub>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/kenzaidr/InventoryManagement">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenzaidr&repo=InventoryManagement&hide_border=true&bg_color=FDF8F4&title_color=5D3A1A&text_color=A0785A&icon_color=C8A97E" />
-      </a>
-      <br/><sub>Stock workflows · Data consistency · Maintainability</sub>
-    </td>
-  </tr>
-</table>
-</div>
-
----
 
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=kenzaidr&show_icons=true&hide_border=true&bg_color=FDF8F4&title_color=5D3A1A&text_color=A0785A&icon_color=C8A97E&rank_icon=github" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzaidr&layout=compact&hide_border=true&bg_color=FDF8F4&title_color=5D3A1A&text_color=A0785A&langs_count=7" />
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=kenzaidr&theme=transparent&hide_border=true&stroke=E8D5C4&ring=C8A97E&fire=D88C9A&currStreakNum=5D3A1A&sideNums=A0785A&currStreakLabel=A0785A&sideLabels=A0785A&dates=C8A97E&background=FDF8F4" />
 
@@ -106,8 +69,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C8A97E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-linkedin)
-[![Email](https://img.shields.io/badge/Email-A0785A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C8A97E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenza-idrissi-799a2a2a6/)
+[![Email](https://img.shields.io/badge/Email-A0785A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.idrissi0009@gmail.com)
 
 <br/><br/>
 
